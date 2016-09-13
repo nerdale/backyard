@@ -9,7 +9,7 @@ a{
 	margin-left: 20px;
 	font-size: 13px;
 }
-a:hover{
+.menu a:hover{
 	color: white;
 	background-color: #1B7195;
 }
