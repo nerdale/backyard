@@ -1,0 +1,11 @@
+@media (max-width: 535px){
+	[class*="col-"] {
+		width: 100%;
+	}
+	.menu{
+		margin-bottom: 20px;
+	}
+	img{
+		margin-bottom: -30px;
+	}
+}
